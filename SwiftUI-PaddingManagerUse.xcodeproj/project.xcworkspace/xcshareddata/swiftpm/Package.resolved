@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PaddingManager",
+        "repositoryURL": "https://github.com/kazuao/PaddingManager.git",
+        "state": {
+          "branch": "main",
+          "revision": "ba87b16993f447abe48edf38a54f7621d33b00b4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
